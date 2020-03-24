@@ -2,9 +2,10 @@
   "name": "bridge-processo-seletivo",
   "version": "1.0.0",
   "description": "Aplicativo Full Stack para o processo seletivo da Bridge.",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js",
+    "server": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   "homepage": "https://github.com/gannuman/bridge-processo-seletivo#readme",
   "dependencies": {
     "concurrently": "^5.1.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
