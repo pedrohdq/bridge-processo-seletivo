@@ -3,6 +3,7 @@ Aplicativo Full Stack para o processo seletivo da Bridge
 Feito por Pedro Henrique Dadalt de Queiroz :)
 
 Meu Linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+
 Meu Currículo: https://drive.google.com/file/d/1aqYgqxF6mg0j0NGspB5MtLLuFRqEERO4/view?usp=sharing
 
 # Inicializando o projeto
