@@ -1,6 +1,7 @@
 # bridge-processo-seletivo
 Aplicativo Full Stack para o processo seletivo da Bridge
-Feito por Pedro Henrique Dadalt de Queiroz :)
+
+# Feito por Pedro Henrique Dadalt de Queiroz :)
 
 Meu Linkedin: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
 
